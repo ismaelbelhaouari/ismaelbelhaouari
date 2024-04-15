@@ -37,8 +37,9 @@ I'm always open to collaboration and discussions on ML/NLP projects. If you're w
 
 ## Fun Facts
 
-- Im from switzerland 
-- Lived in 6 different countries which gave me the oppourtnity to speak,write and read in French, English and Arabic while having a multicultural background and mindset
+- Im from Switzerland 
+- Lived in 6 different countries 
+- I can speak, write and read in French, English and Arabic (Learning German at the moment) 
 
 Feel free to explore my repositories and connect with me. Looking forward to collaborating and learning together!
 
