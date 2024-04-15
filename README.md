@@ -2,7 +2,7 @@ I'm **Ismael Brahim Belhaouari**, a **Data science and artificial intelligence s
 
 ## About Me
 
-- 🌱 I’m currently a 2nd year student at the university of maastricht  
+- 🌱 I’m currently a 2nd year bachelor student at the university of Maastricht studying Data science and artificial intelligence 
 - 👀 I’m interested in Machine learning, Natural language processing, Data analysis and image/video processing 
 - 💼 I work as a Data scientist.
 - 🎓 I hold a degree in Data science and Artificial intelligence.
@@ -20,9 +20,9 @@ My interests primarily revolve around ML and NLP, where I explore:
 
 I've worked on various projects related to ML and NLP, including:
 
-- [Titan spaceship mission] - Brief description.
-- [Stratego game AI] - Brief description.
-- [cancer Diagnosis prediction] - Brief description.
+- Titan spaceship mission - Brief description.
+- Stratego game AI - Brief description.
+- cancer Diagnosis prediction - Brief description.
 
 You can find more details about my projects on my GitHub repositories.
 
@@ -32,12 +32,13 @@ I'm always open to collaboration and discussions on ML/NLP projects. If you're w
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [ismael.belhaouari@gmail.com]
+- LinkedIn: www.linkedin.com/in/ismael-brahim-belhaouari-16a6702a6
+- Email: ismael.belhaouari@gmail.com
 
 ## Fun Facts
 
-- ⚡ Fun fact: [Im from switzerland and lived in 6 different countries which gave me the oppourtnity to speak,write and read in French, English and Arabic while having a multicultural background and mindset]
+- Im from switzerland 
+- Lived in 6 different countries which gave me the oppourtnity to speak,write and read in French, English and Arabic while having a multicultural background and mindset
 
 Feel free to explore my repositories and connect with me. Looking forward to collaborating and learning together!
 
