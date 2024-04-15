@@ -1,5 +1,3 @@
--# Hi there! 👋
-
 I'm Ismael Brahim Belhaouari, a Data science and artificial intelligence student at the university of maastricht with a keen interest in Machine Learning and Natural Language Processing, image/video processing and Data analysis Welcome to my GitHub profile!
 
 ## About Me
